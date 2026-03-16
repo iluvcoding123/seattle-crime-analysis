@@ -1,7 +1,6 @@
 # Seattle Crime Spatiotemporal Analysis
 
 Exploratory data analysis and clustering of Seattle Police Department crime incident data.  
-*by Justin Kim and Srishti Rajpurohit*
 
 ## Dataset
 **Source**: Seattle Police Department Open Data Portal  
